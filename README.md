@@ -2,6 +2,8 @@ runsim.py
 Oscar Benjamin
 March 2021
 
+Note from Max I hope this is working 
+
 This script runs simulations of an epidemic (e.g. coronavirus) spreading
 around people on a 2-dimensional grid. The script can be used to:
 

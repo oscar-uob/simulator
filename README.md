@@ -2,6 +2,7 @@ runsim.py
 Oscar Benjamin
 March 2021
 
+Note from Max I hope this is working 
 EDITED BY OSCAR DILLEY
 
 This script runs simulations of an epidemic (e.g. coronavirus) spreading
